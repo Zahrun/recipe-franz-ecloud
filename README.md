@@ -1,5 +1,8 @@
 # Google Keep Franz Plugin
 
+## Requirements
+This recipe only works for Franz 5.X, get it now at http://meetfranz.com
+
 ## Installation
 
 1. Clone/download the folder `recipe-franz-googlekeep`.
