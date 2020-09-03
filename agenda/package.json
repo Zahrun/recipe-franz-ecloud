@@ -1,0 +1,23 @@
+{
+  "id": "ecloudAgenda",
+  "name": "ecloudAgenda",
+  "version": "1.0.0",
+  "description": "/e/ cloud Agenda",
+  "main": "index.js",
+  "author": "Aroun",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://ecloud.global/apps/calendar/dayGridMonth/now",
+    "serviceName": "/e/ cloud Agenda",
+    "message": "/e/ cloud Agenda",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "customURL": false,
+    "hasTeamID": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

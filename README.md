@@ -1,4 +1,4 @@
-# Google Keep Franz Plugin
+# /e/ cloud Franz Plugin
 
 ## Requirements
 This recipe only works for Franz 5.X, get it now at http://meetfranz.com
